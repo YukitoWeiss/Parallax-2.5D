@@ -291,3 +291,9 @@ a {
     background-size: contain;
   }
 }
+
+@media (min-width: 280px) {
+  .hero-text .btn {
+    display: none;
+  }
+}
